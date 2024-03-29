@@ -39,3 +39,4 @@ CREATE TABLE Prosjekt (
 --Framandnøkkel frå andre tabellar? Legge til dei andre punkta også?
 )
 */
+--Test
